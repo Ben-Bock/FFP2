@@ -6,6 +6,9 @@
 #  Author:  Ben Bock (benbock@live.de)           
 #  Website: https://github.com/Ben-Bock/FFP2
 #  License: MIT (see LICENSE file)
+# 
+# based on a great post on https://stackoverflow.com/questions/22058048/hashing-a-file-in-python/44873382
+#
 
 import hashlib
 
